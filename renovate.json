@@ -1,4 +1,4 @@
 {
   "prConcurrentLimit": 2,
-  "branchConcurrentLimit": 4
+  "branchConcurrentLimit": 5
 }
